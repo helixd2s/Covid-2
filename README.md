@@ -2,7 +2,7 @@
 
 🌋 Full rewrite of Alter, full review of model 🌋
 
-# Problem of previous project
+## Problem of previous project
 
 ### Only for review, not for regular use
 
