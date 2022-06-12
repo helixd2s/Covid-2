@@ -4,9 +4,9 @@
 
 # Problem of previous project
 
-Only for review, not for regular use
+### Only for review, not for regular use
 
-### https://github.com/helixd2s/Alter-Died/tree/main
+**https://github.com/helixd2s/Alter-Died/tree/main**
 
 - Unluck and bloat architecture
 - Building a new one on top of the old one
