@@ -1,5 +1,8 @@
 # Alter-2
 
+## 💬 [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions) 💬
+## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues) 🐞
+
 🌋 Full rewrite of Alter, full review of model 🌋
 
 ## Problem of previous project
