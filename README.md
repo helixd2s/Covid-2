@@ -7,7 +7,7 @@
 ## 🥀 [Акция скорби](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md) 🥀
 ## 🪦 [Previous Project](https://github.com/helixd2s/Alter-Died) 🪦 
 
-🌋 Full rewrite of Alter, full review of model 🌋
+🌋 Full rewrite of Covid, full review of model 🌋
 
 ## Problem of previous project
 
